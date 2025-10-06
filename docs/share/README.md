@@ -44,6 +44,8 @@
 
 ### 卡组分享
 
+#### 【简体・繁體中文】【egg rolls】JLPT N1～N5 一万词（含语音、例句）v3
+
 [分享自制的 JLPT（日语能力考试）N1～ N5 词汇 Anki 卡组](https://v2ex.com/t/1015472)：
 
 > 包含约 13000 个 N1 ～ N5 的单词（其中约 3000 个为 N1 扩展词汇，包括一些生僻词）
@@ -53,6 +55,11 @@
 > 根据难度，将词汇分为“必考”、“核心”和“补充”三个部分，方便针对性备考。
 >
 > 为所有词汇提供至少一条例句，并附加汉字的假名注音，例句均经过校对。
->
 
 项目地址：<https://github.com/5mdld/anki-jlpt-decks/tree/main> 下载地址：<https://ankiweb.net/shared/info/832276382>
+
+#### Kaishi 1.5k 中文版
+
+> 这是一个基于日语基础词汇牌组 Kaishi 1.5k 的汉化项目，旨在为国内的日语学习者提供一个更加便捷的学习资源。
+
+项目地址：<https://github.com/maimemo/kaishi-zh-cn> 下载地址：<https://ankiweb.net/shared/info/832276382>
